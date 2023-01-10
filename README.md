@@ -1,5 +1,7 @@
 # RandomPhoto
 
+API called from https://source.unsplash.com/random/600x600
+
 
 Random photo and colour generated when "Random Photo" button is pressed:
 
